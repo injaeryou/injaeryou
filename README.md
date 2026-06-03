@@ -16,7 +16,7 @@
 
 ## 🌱 Open Source Contributions
 
-[Contributions](https://github.com/search?q=author%3Asts07142+is%3Apr+is%3Amerged&type=pullrequests)
+[Contributions](https://github.com/search?q=author%3Asts07142+is%3Apr+is%3Amerged+is%3Apublic+created%3A%3E%3D2024&type=pullrequests&s=updated&o=desc)
 
 | Project | Domain |
 | -- | -- |
