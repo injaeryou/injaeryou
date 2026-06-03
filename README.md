@@ -34,5 +34,5 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-deploy-update.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=sts07142&layout=compact&langs_count=3&theme=chartreuse-dark&count_private=true&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-deploy-update.vercel.app/api/top-langs?username=sts07142&layout=compact&langs_count=5&theme=chartreuse-dark&count_private=true&hide_border=true" alt="Top Languages"/>
 </div>
