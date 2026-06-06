@@ -21,7 +21,7 @@
 | Project | Domain |
 | -- | -- |
 | [`vllm-project/vllm`](https://github.com/vllm-project/vllm) | High-throughput LLM inference engine |
-| [`vllm-project/vllm-metal`](https://github.com/vlml-project/vllm-metal) | Hardware plugin for vLLM on Apple Silicon
+| [`vllm-project/vllm-metal`](https://github.com/vllm-project/vllm-metal) | Hardware plugin for vLLM on Apple Silicon
 | [`hiyouga/LLaMA-Factory`](https://github.com/hiyouga/LLaMA-Factory) | Unified LLM fine-tuning framework |
 | [`langflow-ai/langflow`](https://github.com/langflow-ai/langflow) | Visual LLM workflow builder |
 | [`OpenBMB/ChatDev`](https://github.com/OpenBMB/ChatDev) | Multi-agent software development |
