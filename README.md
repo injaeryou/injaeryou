@@ -12,11 +12,11 @@
 
 | Project | Domain | Version |
 | -- | -- | -- |
-| [resumable-upload](https://github.com/sts07142/resumable-upload) | Zero-dependency Python implementation of the <a href="https://tus.io/">TUS</a> resumable upload protocol (v1.0.0) — server & client. | [![PyPI Version](https://img.shields.io/pypi/v/resumable-upload.svg)](https://pypi.org/project/resumable-upload/)
+| [resumable-upload](https://github.com/injaeryou/resumable-upload) | Zero-dependency Python implementation of the <a href="https://tus.io/">TUS</a> resumable upload protocol (v1.0.0) — server & client. | [![PyPI Version](https://img.shields.io/pypi/v/resumable-upload.svg)](https://pypi.org/project/resumable-upload/)
 
 ## 🌱 Open Source Contributions
 
-[Contributions](https://github.com/search?q=author%3Asts07142+is%3Apr+is%3Amerged+is%3Apublic+created%3A%3E%3D2024&type=pullrequests&s=updated&o=desc)
+[Contributions](https://github.com/search?q=author%3Ainjaeryou+is%3Apr+is%3Amerged+is%3Apublic+created%3A%3E%3D2024&type=pullrequests&s=updated&o=desc)
 
 | Project | Domain |
 | -- | -- |
@@ -33,6 +33,6 @@
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-deploy-update.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true&hide_border=false" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-deploy-update.vercel.app/api/top-langs?username=sts07142&layout=compact&langs_count=5&theme=chartreuse-dark&count_private=true&hide_border=false" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-deploy-update.vercel.app/api?username=injaeryou&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true&hide_border=false" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-deploy-update.vercel.app/api/top-langs?username=injaeryou&layout=compact&langs_count=5&theme=chartreuse-dark&count_private=true&hide_border=false" alt="Top Languages"/>
 </div>
